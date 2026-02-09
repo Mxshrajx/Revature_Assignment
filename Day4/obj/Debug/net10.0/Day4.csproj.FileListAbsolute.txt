@@ -1,0 +1,15 @@
+G:\Revature\Revature_Assignment\Assignments\Day4\bin\Debug\net10.0\Day4.exe
+G:\Revature\Revature_Assignment\Assignments\Day4\bin\Debug\net10.0\Day4.deps.json
+G:\Revature\Revature_Assignment\Assignments\Day4\bin\Debug\net10.0\Day4.runtimeconfig.json
+G:\Revature\Revature_Assignment\Assignments\Day4\bin\Debug\net10.0\Day4.dll
+G:\Revature\Revature_Assignment\Assignments\Day4\bin\Debug\net10.0\Day4.pdb
+G:\Revature\Revature_Assignment\Assignments\Day4\obj\Debug\net10.0\Day4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Revature\Revature_Assignment\Assignments\Day4\obj\Debug\net10.0\Day4.AssemblyInfoInputs.cache
+G:\Revature\Revature_Assignment\Assignments\Day4\obj\Debug\net10.0\Day4.AssemblyInfo.cs
+G:\Revature\Revature_Assignment\Assignments\Day4\obj\Debug\net10.0\Day4.csproj.CoreCompileInputs.cache
+G:\Revature\Revature_Assignment\Assignments\Day4\obj\Debug\net10.0\Day4.sourcelink.json
+G:\Revature\Revature_Assignment\Assignments\Day4\obj\Debug\net10.0\Day4.dll
+G:\Revature\Revature_Assignment\Assignments\Day4\obj\Debug\net10.0\refint\Day4.dll
+G:\Revature\Revature_Assignment\Assignments\Day4\obj\Debug\net10.0\Day4.pdb
+G:\Revature\Revature_Assignment\Assignments\Day4\obj\Debug\net10.0\Day4.genruntimeconfig.cache
+G:\Revature\Revature_Assignment\Assignments\Day4\obj\Debug\net10.0\ref\Day4.dll

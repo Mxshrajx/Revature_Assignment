@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zK+xpHw1cf0=",
+  "success": true,
+  "projectFilePath": "G:\\Revature\\Revature_Assignment\\Assignments\\SOLID\\SOLID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VISHAL MISHRA\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.2\\microsoft.extensions.dependencyinjection.10.0.2.nupkg.sha512",
+    "C:\\Users\\VISHAL MISHRA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.2\\microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
