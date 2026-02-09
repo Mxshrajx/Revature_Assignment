@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Revature\\Revature_Assignment\\Assignments\\Assignments.csproj": {}
+    "G:\\Revature\\Revature_Assignment\\Assignments\\Day2\\Day2.csproj": {}
   },
   "projects": {
-    "G:\\Revature\\Revature_Assignment\\Assignments\\Assignments.csproj": {
+    "G:\\Revature\\Revature_Assignment\\Assignments\\Day2\\Day2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Revature\\Revature_Assignment\\Assignments\\Assignments.csproj",
-        "projectName": "Assignments",
-        "projectPath": "G:\\Revature\\Revature_Assignment\\Assignments\\Assignments.csproj",
+        "projectUniqueName": "G:\\Revature\\Revature_Assignment\\Assignments\\Day2\\Day2.csproj",
+        "projectName": "Day2",
+        "projectPath": "G:\\Revature\\Revature_Assignment\\Assignments\\Day2\\Day2.csproj",
         "packagesPath": "C:\\Users\\VISHAL MISHRA\\.nuget\\packages\\",
-        "outputPath": "G:\\Revature\\Revature_Assignment\\Assignments\\obj\\",
+        "outputPath": "G:\\Revature\\Revature_Assignment\\Assignments\\Day2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
