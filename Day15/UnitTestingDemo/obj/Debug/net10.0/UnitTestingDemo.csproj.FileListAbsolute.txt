@@ -1,0 +1,15 @@
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\bin\Debug\net10.0\UnitTestingDemo.exe
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\bin\Debug\net10.0\UnitTestingDemo.deps.json
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\bin\Debug\net10.0\UnitTestingDemo.runtimeconfig.json
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\bin\Debug\net10.0\UnitTestingDemo.dll
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\bin\Debug\net10.0\UnitTestingDemo.pdb
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\obj\Debug\net10.0\UnitTestingDemo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\obj\Debug\net10.0\UnitTestingDemo.AssemblyInfoInputs.cache
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\obj\Debug\net10.0\UnitTestingDemo.AssemblyInfo.cs
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\obj\Debug\net10.0\UnitTestingDemo.csproj.CoreCompileInputs.cache
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\obj\Debug\net10.0\UnitTestingDemo.sourcelink.json
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\obj\Debug\net10.0\UnitTestingDemo.dll
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\obj\Debug\net10.0\refint\UnitTestingDemo.dll
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\obj\Debug\net10.0\UnitTestingDemo.pdb
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\obj\Debug\net10.0\UnitTestingDemo.genruntimeconfig.cache
+G:\Revature\Revature_Assignment\Assignments\Day15\UnitTestingDemo\obj\Debug\net10.0\ref\UnitTestingDemo.dll

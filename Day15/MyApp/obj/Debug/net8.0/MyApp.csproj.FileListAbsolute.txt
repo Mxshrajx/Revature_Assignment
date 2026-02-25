@@ -1,0 +1,12 @@
+G:\Revature\Revature_Assignment\Assignments\Day15\MyApp\obj\Debug\net8.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Revature\Revature_Assignment\Assignments\Day15\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfoInputs.cache
+G:\Revature\Revature_Assignment\Assignments\Day15\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfo.cs
+G:\Revature\Revature_Assignment\Assignments\Day15\MyApp\obj\Debug\net8.0\MyApp.csproj.CoreCompileInputs.cache
+G:\Revature\Revature_Assignment\Assignments\Day15\MyApp\obj\Debug\net8.0\MyApp.sourcelink.json
+G:\Revature\Revature_Assignment\Assignments\Day15\MyApp\bin\Debug\net8.0\MyApp.deps.json
+G:\Revature\Revature_Assignment\Assignments\Day15\MyApp\bin\Debug\net8.0\MyApp.dll
+G:\Revature\Revature_Assignment\Assignments\Day15\MyApp\bin\Debug\net8.0\MyApp.pdb
+G:\Revature\Revature_Assignment\Assignments\Day15\MyApp\obj\Debug\net8.0\MyApp.dll
+G:\Revature\Revature_Assignment\Assignments\Day15\MyApp\obj\Debug\net8.0\refint\MyApp.dll
+G:\Revature\Revature_Assignment\Assignments\Day15\MyApp\obj\Debug\net8.0\MyApp.pdb
+G:\Revature\Revature_Assignment\Assignments\Day15\MyApp\obj\Debug\net8.0\ref\MyApp.dll

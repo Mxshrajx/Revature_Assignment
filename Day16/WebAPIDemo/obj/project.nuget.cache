@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M4H36X7xJiA=",
+  "success": true,
+  "projectFilePath": "G:\\Revature\\Revature_Assignment\\Assignments\\Day16\\WebAPIDemo\\WebAPIDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VISHAL MISHRA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\VISHAL MISHRA\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

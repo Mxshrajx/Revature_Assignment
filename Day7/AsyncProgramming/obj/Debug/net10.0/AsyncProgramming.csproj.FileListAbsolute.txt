@@ -1,0 +1,15 @@
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\bin\Debug\net10.0\AsyncProgramming.exe
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\bin\Debug\net10.0\AsyncProgramming.deps.json
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\bin\Debug\net10.0\AsyncProgramming.runtimeconfig.json
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\bin\Debug\net10.0\AsyncProgramming.dll
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\bin\Debug\net10.0\AsyncProgramming.pdb
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.AssemblyInfoInputs.cache
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.AssemblyInfo.cs
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.csproj.CoreCompileInputs.cache
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.sourcelink.json
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.dll
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\obj\Debug\net10.0\refint\AsyncProgramming.dll
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.pdb
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.genruntimeconfig.cache
+G:\Revature\Revature_Assignment\Assignments\Day7\AsyncProgramming\obj\Debug\net10.0\ref\AsyncProgramming.dll

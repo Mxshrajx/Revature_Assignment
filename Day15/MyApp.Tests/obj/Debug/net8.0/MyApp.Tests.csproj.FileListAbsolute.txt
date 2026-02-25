@@ -1,0 +1,6 @@
+G:\Revature\Revature_Assignment\Assignments\Day15\MyAPP.Tests\obj\Debug\net8.0\MyApp.Tests.csproj.AssemblyReference.cache
+G:\Revature\Revature_Assignment\Assignments\Day15\MyAPP.Tests\obj\Debug\net8.0\MyApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+G:\Revature\Revature_Assignment\Assignments\Day15\MyAPP.Tests\obj\Debug\net8.0\MyApp.Tests.AssemblyInfoInputs.cache
+G:\Revature\Revature_Assignment\Assignments\Day15\MyAPP.Tests\obj\Debug\net8.0\MyApp.Tests.AssemblyInfo.cs
+G:\Revature\Revature_Assignment\Assignments\Day15\MyAPP.Tests\obj\Debug\net8.0\MyApp.Tests.csproj.CoreCompileInputs.cache
+G:\Revature\Revature_Assignment\Assignments\Day15\MyAPP.Tests\obj\Debug\net8.0\MyApp.Tests.sourcelink.json
